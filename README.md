@@ -1,11 +1,6 @@
 # MG.UPS.TechnicalAssessment
 This project is a Technical Assessment submitted by Manmohan Ghai to UPS.
-This is a desktop application which manages the employee details. It uses latest 
-
-The solution has 3 projects
-1.	Employee Management WinForm. (MG.UPS.TechnicalAssessment.EmployeeManagement) 
-2.	Employee Management Test for Unit tests. Uses MoQ. (MG.UPS.TechnicalAssessment.EmployeeManagementTest
-3.	Reusable/independent service client which can interact with rest services. (MG.UPS.TechnicalAssessment.ServiceClientRest)
+This is a desktop application which manages the employee details.
 
 Functionality implemented
 - Add
@@ -16,6 +11,11 @@ Functionality implemented
 - Export to Csv
 
 The project uses multiple layers to take care of separation of concern. And consume Rest Service to implement mentioned functionality. The functionality uses various patterns and extended base functionality. 
+
+The solution has 3 projects
+1.	Employee Management WinForm. (MG.UPS.TechnicalAssessment.EmployeeManagement) 
+2.	Employee Management Test for Unit tests. Uses MoQ. (MG.UPS.TechnicalAssessment.EmployeeManagementTest
+3.	Reusable/independent service client which can interact with rest services. (MG.UPS.TechnicalAssessment.ServiceClientRest)
 
 Dependencies
 
