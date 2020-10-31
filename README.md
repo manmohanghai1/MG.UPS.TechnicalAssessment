@@ -1,4 +1,4 @@
-# MG.UPS.TechnicalAssessment
+# Technical Assessment
 This project is a Technical Assessment submitted by Manmohan Ghai to UPS.
 This is a desktop application which manages the employee details.
 
