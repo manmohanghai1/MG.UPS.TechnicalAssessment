@@ -96,7 +96,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RestClient\MG.UPS.TechnicalAssessment.ServiceClientRest.csproj">
+    <ProjectReference Include="..\MG.UPS.TechnicalAssessment.ServiceClientRest\MG.UPS.TechnicalAssessment.ServiceClientRest.csproj">
       <Project>{3fff9af3-8313-4736-870a-1765dea999bf}</Project>
       <Name>MG.UPS.TechnicalAssessment.ServiceClientRest</Name>
     </ProjectReference>

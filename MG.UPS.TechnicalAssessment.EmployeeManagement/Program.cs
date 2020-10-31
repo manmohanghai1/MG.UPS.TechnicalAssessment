@@ -1,13 +1,8 @@
 ﻿using MG.UPS.TechnicalAssessment.EmployeeManagement.Services;
-using Microsoft.Extensions.DependencyInjection;
 using MG.UPS.TechnicalAssessment.ServiceClientRest;
+using Microsoft.Extensions.DependencyInjection;
 using System;
-using System.Collections.Generic;
 using System.Configuration;
-using System.Linq;
-using System.Net.Http;
-using System.Security.Authentication.ExtendedProtection;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace MG.UPS.TechnicalAssessment.EmployeeManagement

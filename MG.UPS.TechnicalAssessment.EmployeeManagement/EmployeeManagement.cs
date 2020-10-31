@@ -1,10 +1,7 @@
 ﻿using MG.UPS.TechnicalAssessment.EmployeeManagement.Model;
 using MG.UPS.TechnicalAssessment.EmployeeManagement.Services;
 using System;
-using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Runtime.Remoting.Messaging;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 

@@ -1,9 +1,8 @@
 ﻿using MG.UPS.TechnicalAssessment.EmployeeManagement.Model;
+using MG.UPS.TechnicalAssessment.ServiceClientRest;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
-using MG.UPS.TechnicalAssessment.ServiceClientRest;
 using System;
-using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;

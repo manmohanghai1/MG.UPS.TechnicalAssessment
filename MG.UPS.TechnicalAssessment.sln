@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MG.UPS.TechnicalAssessment.ServiceClientRest", "RestClient\MG.UPS.TechnicalAssessment.ServiceClientRest.csproj", "{3FFF9AF3-8313-4736-870A-1765DEA999BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MG.UPS.TechnicalAssessment.ServiceClientRest", "MG.UPS.TechnicalAssessment.ServiceClientRest\MG.UPS.TechnicalAssessment.ServiceClientRest.csproj", "{3FFF9AF3-8313-4736-870A-1765DEA999BF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MG.UPS.TechnicalAssessment.EmployeeManagement", "MG.UPS.TechnicalAssessment.EmployeeManagement\MG.UPS.TechnicalAssessment.EmployeeManagement.csproj", "{0AD51BAB-7C1F-4CBC-A19E-2D5A652D24B6}"
 EndProject

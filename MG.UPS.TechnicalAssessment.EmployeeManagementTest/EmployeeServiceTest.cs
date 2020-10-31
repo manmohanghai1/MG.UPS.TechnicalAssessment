@@ -1,8 +1,8 @@
 ﻿using MG.UPS.TechnicalAssessment.EmployeeManagement.Model;
 using MG.UPS.TechnicalAssessment.EmployeeManagement.Services;
+using MG.UPS.TechnicalAssessment.ServiceClientRest;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
-using MG.UPS.TechnicalAssessment.ServiceClientRest;
 using System;
 using System.Net.Http;
 using System.Threading.Tasks;
