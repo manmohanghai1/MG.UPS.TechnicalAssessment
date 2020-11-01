@@ -36,5 +36,5 @@ MG.UPS.TechnicalAssessment.EmployeeManagementTest
 - System.Net.Http
 
 
-![Alt text](/Others/Application Screenshot.jpg?raw=true "Application Screenshot")
+![alt text](/Others/Application Screenshot.jpg?raw=true "Application Screenshot")
 
